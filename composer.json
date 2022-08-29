@@ -1,0 +1,20 @@
+{
+    "name": "tigani/laravel-sms",
+    "description": "This package is for sms gateways that uses api with get request",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tigani\\SMS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Altigani Ahmed",
+            "email": "tigani.ismail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
