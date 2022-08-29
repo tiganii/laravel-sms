@@ -9,6 +9,7 @@ SMS package to use Airtel SMS Provider or any SMS Provider that use GET method t
         - [Env Keys](#env-keys)
     - [Usage](#usage)
     - [Contributing](#contributing)
+    - [Contact](#Contact)
 
 ## Requirements
 - guzzlehttp >= 7.0.1
