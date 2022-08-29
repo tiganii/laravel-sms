@@ -34,6 +34,6 @@ class SMS
             'Nums' => $numbers
         ]);
 
-        return $response;
+        return $response == 'OK' ? true : false;
     }
 }
